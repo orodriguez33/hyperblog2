@@ -41,3 +41,12 @@ body
 {
     padding: 1 em;
 }
+#footer
+{
+    background: green;
+    border: 1px solid #ddd; 
+}
+#footer p
+{
+    color: honeydew;
+}
