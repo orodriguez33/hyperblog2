@@ -36,11 +36,14 @@ body
 #container h1
 {
     font-size: 20px;
+    margin: 0 auto;
 }
 
 #post
 {
+    background: honeydew;
     padding: 1 em;
+    margin: 0 auto;
 }
 #footer
 {
